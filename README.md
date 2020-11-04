@@ -16,22 +16,21 @@ The most shackling and terrifying question in an interview is "Tell me a little 
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
-<!--
-<div align="center">
-<img  src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/source.gif" width="400px">
-</div>
- -->
-
-
-<div align="right">
+<div align="left">
 These are my social links.
 </div>
-<div align="right">
+<div align="left">
 <a href="https://twitter.com/omargaber96"><img alt="Omar | Twitter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /></a>
 <a href="https://www.linkedin.com/in/omar-gaber/">
 <img alt="Omar Gaber | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="http://themindscribbles.wordpress.com/"><img alt="The Mind Scribbles | Blog" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg"/></a>
 </div>
+
+<!--
+<div align="center">
+<img  src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/source.gif" width="400px">
+</div>
+ -->
 
 ### GitHub Stats
 <div align="center">
