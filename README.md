@@ -16,9 +16,8 @@ The most shackling and terrifying question in an interview is "Tell me a little 
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
-<div align="left">
-These are my social links.
-</div>
+#### Social Links.
+
 <div align="left">
 <a href="https://twitter.com/omargaber96"><img alt="Omar | Twitter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /></a>
 <a href="https://www.linkedin.com/in/omar-gaber/">
