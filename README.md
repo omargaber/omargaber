@@ -33,4 +33,6 @@ These are my social links.
 </div>
 
 ### GitHub Stats
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=omargaber&show_icons=true&theme=radical&custom_title=Omar's Github Stats&line_height=40&include_all_commits=True&count_private=True&card_width=50" alt="omargaber" />
+</div>
