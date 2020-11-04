@@ -16,10 +16,11 @@ The most shackling and terrifying question in an interview is "Tell me a little 
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
 
+<!--
 <div align="center">
 <img  src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/source.gif" width="400px">
 </div>
-
+ -->
 
 
 <div align="right">
