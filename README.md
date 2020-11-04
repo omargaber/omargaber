@@ -17,7 +17,7 @@ The most shackling and terrifying question in an interview is "Tell me a little 
 </div>
 
 <div align="center">
-<img  src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/source.gif" width="350px" height="300px">
+<img  src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/source.gif" width="400px">
 </div>
 
 
@@ -33,6 +33,4 @@ These are my social links.
 </div>
 
 ### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omargaber&layout=default&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api?username=omargaber&show_icons=true&theme=radical&custom_title=Omar's Github Stats&line_height=40&include_all_commits=True&count_private=True&card_width=40" alt="omargaber" />
+<img src="https://github-readme-stats.vercel.app/api?username=omargaber&show_icons=true&theme=radical&custom_title=Omar's Github Stats&line_height=40&include_all_commits=True&count_private=True&card_width=50" alt="omargaber" />
