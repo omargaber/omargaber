@@ -1,16 +1,38 @@
-### Hi there 👋
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+I'm Omar. A software engineer from Egypt.
 
-<!--
-**omargaber/omargaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perhaps the first thing you should know about me is that I don't know how to write a good bio.
+The most shackling and terrifying question in an interview is "Tell me a little bit about yourself." 
 
-Here are some ideas to get you started:
+#### Languages and tools
+<div>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img  src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/source.gif" width="400px">
+</div>
+
+
+
+<div align="right">
+These are my social links.
+</div>
+<div align="right">
+<a href="https://twitter.com/omargaber96"><img alt="Omar | Twitter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /></a>
+<a href="https://www.linkedin.com/in/omar-gaber/">
+<img alt="Omar Gaber | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="http://themindscribbles.wordpress.com/"><img alt="The Mind Scribbles | Blog" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg"/></a>
+</div>
+
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omargaber&layout=default&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=omargaber&show_icons=true&theme=radical&custom_title=Omar's Github Stats&line_height=40&include_all_commits=True&count_private=True&card_width=50" alt="omargaber" />
