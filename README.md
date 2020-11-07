@@ -21,8 +21,8 @@ The most shackling and terrifying question in an interview is "Tell me a little 
 <div align="left">
 <a href="https://twitter.com/omargaber96"><img alt="Omar | Twitter" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" /></a>
 <a href="https://www.linkedin.com/in/omar-gaber/">
-<img alt="Omar Gaber | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="http://themindscribbles.wordpress.com/"><img alt="The Mind Scribbles | Blog" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg"/></a>
+<img alt="Omar Gaber | LinkedIn" width="23px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a>
+<a href="http://themindscribbles.wordpress.com/"><img alt="The Mind Scribbles | Blog" width="23px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"/></a>
 </div>
 
 <!--
