@@ -7,7 +7,7 @@ The most shackling and terrifying question in an interview is "Tell me a little 
 #### Languages and tools
 <div>
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
